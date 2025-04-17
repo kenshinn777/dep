@@ -15,7 +15,7 @@ accounts = [
 ]
 
 # ========== LINK PESAN ==========
-link = 'https://t.me/dbbyteens/4'
+link = 'https://t.me/xinndb1/3'
 fallback_link = 'https://t.me/dbgacor777/14'
 
 # ========== LOAD GRUP ==========
